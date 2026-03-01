@@ -2,7 +2,7 @@
 
 A strategy game agent developed to play **HexThello** (Othello on a hexagonal grid) using Artificial Intelligence techniques. This project was developed as part of the **Artificial Intelligence** course at the **Technical University of Crete** (Fall 2024).
 
----
+
 
 ## 📌 Project Overview
 
@@ -10,7 +10,7 @@ The primary objective of this application is to implement an intelligent agent c
 
 The project implements and compares distinct search and optimization methods to determine the best possible move in a given timeframe.
 
----
+
 
 ## 🚀 Implemented AI Strategies
 
@@ -54,7 +54,7 @@ The application manages decision-making using the following architectures:
 * **Helper Functions:** `is_stable` (checks neighborhood uniformity) and `is_corner` (checks grid boundaries).
 * **Execution:** The AI calculates moves dynamically based on the current board state provided by the game environment.
 
----
+
 
 ## 📊 Performance Analysis
 
@@ -66,7 +66,7 @@ The project includes an execution test demonstrating the AI's capability against
 
 
 
----
+
 
 ## 📂 Project Structure
 
